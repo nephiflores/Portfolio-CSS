@@ -48,9 +48,6 @@ clear: both;
       font-weight: 700;
   }
     
-
-
-
   nav {
     float: right;
     margin-top: 25px;
@@ -69,8 +66,6 @@ clear: both;
   nav a:first-child {
     border-left: 0 none;
   }
-
-
 
   #main-container {
     padding-top: 130px;
@@ -112,4 +107,11 @@ clear: both;
     background: #666666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
+  }
+
+  /* portfolio*/
+
+  #work {
+      width: 300px;
+      height: 200px;
   }
